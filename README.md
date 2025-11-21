@@ -272,7 +272,7 @@ In this section, we will have you explore this question with the Priority Queue 
 
 You may assume that `remove` (`pop`/`remove` respectively) as well as the data structures mentioned are the same as covered in the lectures and ZyBooks.
 
-Running the tester:
+Running the tester: (ensure you are in `starter` directory)
 
 ```
 java -jar RuntimeTester.jar <numElements> <numTrials>
@@ -280,7 +280,7 @@ java -jar RuntimeTester.jar <numElements> <numTrials>
 # For this we recommend running with
 java -jar RuntimeTester.jar 100000 10
 
-# Expect it to be a little slow! If it does not seem to run at all, then try 10000 elements.
+# Expect it to be a little slow! If it does not seem to run at all after about a minute or so, then try 10000 elements.
 # Be careful not to drop it lower because you will get noisy results!
 ```
 
