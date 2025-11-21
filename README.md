@@ -266,7 +266,7 @@ A core goal of this course is to teach students how to identify the time complex
 
 In this section, we will have you explore this question with the Priority Queue and Binary Search Tree. Specifically, you will use what you know about the Priority Queue and Binary Search Tree to explain how they compare (runtime-wise) when removing the smallest element. For this purpose, we have provided the following file:
 
-- `RuntimeTester.java`
+- `RuntimeTester.jar`
   - Provides functionality to test the runtime of `remove` on the smallest element for Priority Queue and Binary Search Tree.
   - **Note:** Do not make any modifications to this file.
 
@@ -287,7 +287,7 @@ java -jar RuntimeTester.jar 100000 10
 Feel free to play around with the number of elements if you'd like, but it's not required for the form. If you do, just keep in mind that runtime measurement can be noisy (due to inevitable hardware-related overhead), so try large strides in numElements.
 
 
-**Your task:** Fill out **PA8 Task 2: Runtime** form on Gradescope using the results you get from running `RuntimeTester.java`. This will **NOT** be eligible for resubmission.
+**Your task:** Fill out **PA8 Task 2: Runtime** form on Gradescope using the results you get from running `RuntimeTester.jar`. This will **NOT** be eligible for resubmission.
 
 ## Submission
 
